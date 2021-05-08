@@ -7,7 +7,7 @@ public class PrintfEx1 {
 		System.out.println(10/3);
 		System.out.println(10.0/3);
 		
-		System.out.printf("age:%d%n", 12);  //  %n, \n °³ÇàºÎÈ£ 
+		System.out.printf("age:%d%n", 12);  //  %n, \n Â°Â³Ã‡Ã ÂºÃŽÃˆÂ£ 
 		System.out.printf("age:%d\n", 12);
 		System.out.printf("age:%d", 12);
 		
