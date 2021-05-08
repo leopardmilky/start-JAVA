@@ -1,4 +1,4 @@
-import java.util.*; // =java.util.Scanner; ¶ó°í ½áµµµÊ.
+import java.util.*; // =java.util.Scanner; Â¶Ã³Â°Ã­ Â½Ã¡ÂµÂµÂµÃŠ.
 
 public class ScanfEx1 {
 
