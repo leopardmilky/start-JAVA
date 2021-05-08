@@ -10,14 +10,14 @@ public class VarEx1 {
 		System.out.println("x+y");
 		System.out.println(x+y);
 		
-		// º¯¼ö, »ó¼ö, ¸®ÅÍ·²
+		// ë³€ìˆ˜, ìƒìˆ˜, ë¦¬í„°ëŸ´
 		
 		int score = 100;
 			score = 200;
 		System.out.println(score);
 		
 		final int MAX =100;
-	    /*        MAX =200; ¿¡·¯ ¹ß»ı */
+	    /*        MAX =200; ì—ëŸ¬ ë°œìƒ */
 		System.out.println(MAX);
 		
 //		char ch = 'A';
